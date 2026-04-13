@@ -1,0 +1,8 @@
+{
+  "appId": "com.skinsight.app",
+  "appName": "SkinSight",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  }
+}
